@@ -30,14 +30,14 @@ function depe(){
     #Phishing
     clear
     cd
-    git clone https://github.com/htr-tech/nexphisher.git
+    git clone https://github.com/yosmods/YOS-CRACK.git
     cd nexphisher
     bash tmux_setup
     cd
     
     #Maskphishing
     
-    git clone https://github.com/jaykali/maskphish
+    git clone https://github.com/yosmods/YOS-CRACK.git
     
     #Phoneinfoga
     
@@ -64,7 +64,7 @@ function depe(){
     echo "Install end"
     sleep 1
     clear
-    bash doxing.sh
+    bash Yos.sh
     
 }
 
