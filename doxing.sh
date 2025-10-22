@@ -11,7 +11,39 @@ function banner(){
  | |) / _ \ \ / |    \/ _ | |  _/ _ \/ _ \ | (𝚈𝙾𝚂-𝟿𝟿𝟿)
  |___/\___/_\_\_|_||_\__  |  \__\___/\___/_|
                      |___/                  
-                     "
+           ___          _             _            _ 
+ |   \ _____ _(_)_ _  __ _  | |_ ___  ___| |
+ | |) / _ \ \ / |    \/ _ | |  _/ _ \/ _ \ |
+ |___/\___/_\_\_|_||_\__  |  \__\___/\___/_|
+                     |___/                  
+
+           (CREATED BY : YOS-999)
+
+𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎𝐎 :
+
+#DEFACER-INDONESIAN-TEAM
+#CYBERCRIME
+#SOLUTIONS-CRACKING-INDONESIAN
+#999-TEAM-BANINDO
+#CYBER-TEAM-INDONESIA
+#AND ALL FRIENDS CYBER ME
+
+𝐓𝐇𝐀𝐍𝐊𝐒 𝐓𝐎𝐎 𝐀𝐋𝐋 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 :
+
+#MJOEY
+#XANGEL
+#ZORO
+#AAM
+#SAMTRO
+#SANZSEC
+#LENGZ
+#RIK
+#DENZ
+#ELANG
+#DITZ
+#LIPXSY
+
+𝐓𝐇𝐀𝐍𝐊𝐒 𝐘𝐎𝐔 𝐅𝐑𝐈𝐄𝐍𝐃𝐒 𝐘𝐎𝐔 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐌𝐄             "
 }
 
 function depe(){
